@@ -1,0 +1,788 @@
+{
+  "farms": [
+    {
+      "phase": "active",
+      "region": "Europe Retail",
+      "settings": {
+        "name": "Dune-Beta-EUR-01",
+        "image": "1058668-0-shipping",
+        "changelist": "1058668",
+        "snapshot": "0",
+        "configuration": "shipping"
+      },
+      "pods": [
+        {
+          "ip": "94.250.204.141",
+          "gamePort": 7783,
+          "partition": 1,
+          "dimension": 0,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.141",
+          "gamePort": 7778,
+          "partition": 2,
+          "dimension": 1,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.141",
+          "gamePort": 7779,
+          "partition": 17,
+          "dimension": 2,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.141",
+          "gamePort": 7780,
+          "partition": 5,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.142",
+          "gamePort": 7783,
+          "partition": 6,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.142",
+          "gamePort": 7777,
+          "partition": 7,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.142",
+          "gamePort": 7781,
+          "partition": 8,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.142",
+          "gamePort": 7778,
+          "partition": 9,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.142",
+          "gamePort": 7780,
+          "partition": 10,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.142",
+          "gamePort": 7779,
+          "partition": 11,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.142",
+          "gamePort": 7782,
+          "partition": 12,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.142",
+          "gamePort": 7784,
+          "partition": 13,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.141",
+          "gamePort": 7781,
+          "partition": 14,
+          "dimension": 0,
+          "map": "Overmap"
+        },
+        {
+          "ip": "94.250.204.141",
+          "gamePort": 7777,
+          "partition": 15,
+          "dimension": 0,
+          "map": "SH_Arrakeen"
+        },
+        {
+          "ip": "94.250.204.141",
+          "gamePort": 7782,
+          "partition": 16,
+          "dimension": 0,
+          "map": "SH_HarkoVillage"
+        }
+      ]
+    },
+    {
+      "phase": "active",
+      "region": "Europe Retail",
+      "settings": {
+        "name": "Crysknife",
+        "image": "1095647-0-shipping",
+        "changelist": "1095647",
+        "snapshot": "0",
+        "configuration": "shipping"
+      },
+      "pods": [
+        {
+          "ip": "94.250.204.159",
+          "gamePort": 7777,
+          "partition": 1,
+          "dimension": 0,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.161",
+          "gamePort": 7779,
+          "partition": 2,
+          "dimension": 1,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.136",
+          "gamePort": 7777,
+          "partition": 3,
+          "dimension": 2,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.152",
+          "gamePort": 7778,
+          "partition": 4,
+          "dimension": 3,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.160",
+          "gamePort": 7780,
+          "partition": 5,
+          "dimension": 4,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.107",
+          "gamePort": 7777,
+          "partition": 6,
+          "dimension": 5,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.154",
+          "gamePort": 7778,
+          "partition": 7,
+          "dimension": 6,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.161",
+          "gamePort": 7780,
+          "partition": 8,
+          "dimension": 7,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.86",
+          "gamePort": 7778,
+          "partition": 9,
+          "dimension": 8,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.154",
+          "gamePort": 7779,
+          "partition": 10,
+          "dimension": 9,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.159",
+          "gamePort": 7778,
+          "partition": 11,
+          "dimension": 10,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.107",
+          "gamePort": 7779,
+          "partition": 12,
+          "dimension": 11,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.86",
+          "gamePort": 7779,
+          "partition": 13,
+          "dimension": 12,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.136",
+          "gamePort": 7779,
+          "partition": 14,
+          "dimension": 13,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.160",
+          "gamePort": 7779,
+          "partition": 15,
+          "dimension": 14,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.142",
+          "gamePort": 7787,
+          "partition": 16,
+          "dimension": 15,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.107",
+          "gamePort": 7780,
+          "partition": 17,
+          "dimension": 16,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.160",
+          "gamePort": 7778,
+          "partition": 18,
+          "dimension": 17,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.161",
+          "gamePort": 7778,
+          "partition": 19,
+          "dimension": 18,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.152",
+          "gamePort": 7780,
+          "partition": 20,
+          "dimension": 19,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.86",
+          "gamePort": 7777,
+          "partition": 21,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.107",
+          "gamePort": 7778,
+          "partition": 22,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.154",
+          "gamePort": 7777,
+          "partition": 23,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.142",
+          "gamePort": 7785,
+          "partition": 24,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.152",
+          "gamePort": 7777,
+          "partition": 25,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.136",
+          "gamePort": 7778,
+          "partition": 26,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.160",
+          "gamePort": 7777,
+          "partition": 27,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.141",
+          "gamePort": 7784,
+          "partition": 28,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.159",
+          "gamePort": 7779,
+          "partition": 29,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.161",
+          "gamePort": 7777,
+          "partition": 30,
+          "dimension": 0,
+          "map": "Overmap"
+        },
+        {
+          "ip": "94.250.204.142",
+          "gamePort": 7786,
+          "partition": 31,
+          "dimension": 0,
+          "map": "SH_Arrakeen"
+        },
+        {
+          "ip": "94.250.204.152",
+          "gamePort": 7779,
+          "partition": 32,
+          "dimension": 0,
+          "map": "SH_HarkoVillage"
+        }
+      ]
+    },
+    {
+      "phase": "active",
+      "region": "Asia Retail",
+      "settings": {
+        "name": "Tencent-Beta-Taipei",
+        "image": "1275346-0-shipping",
+        "changelist": "1275346",
+        "snapshot": "0",
+        "configuration": "shipping"
+      },
+      "pods": [
+        {
+          "ip": "83.223.199.30",
+          "gamePort": 7777,
+          "partition": 1,
+          "dimension": 0,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "83.223.199.30",
+          "gamePort": 7781,
+          "partition": 21,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "83.223.199.30",
+          "gamePort": 7779,
+          "partition": 22,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "83.223.199.30",
+          "gamePort": 7784,
+          "partition": 23,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "83.223.199.30",
+          "gamePort": 7791,
+          "partition": 24,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "83.223.199.30",
+          "gamePort": 7788,
+          "partition": 25,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "83.223.199.30",
+          "gamePort": 7783,
+          "partition": 26,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "83.223.199.30",
+          "gamePort": 7786,
+          "partition": 27,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "83.223.199.30",
+          "gamePort": 7789,
+          "partition": 28,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "83.223.199.30",
+          "gamePort": 7787,
+          "partition": 29,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "83.223.199.30",
+          "gamePort": 7778,
+          "partition": 30,
+          "dimension": 0,
+          "map": "Overmap"
+        },
+        {
+          "ip": "83.223.199.30",
+          "gamePort": 7790,
+          "partition": 31,
+          "dimension": 0,
+          "map": "SH_Arrakeen"
+        },
+        {
+          "ip": "83.223.199.30",
+          "gamePort": 7785,
+          "partition": 32,
+          "dimension": 0,
+          "map": "SH_HarkoVillage"
+        },
+        {
+          "ip": "83.223.199.30",
+          "gamePort": 7782,
+          "partition": 33,
+          "dimension": 0,
+          "map": "CB_Story_Hephaestus"
+        },
+        {
+          "ip": "83.223.199.30",
+          "gamePort": 7780,
+          "partition": 34,
+          "dimension": 0,
+          "map": "CB_Story_WaterFatManor"
+        }
+      ]
+    },
+    {
+      "phase": "active",
+      "region": "Europe Profiling",
+      "settings": {
+        "name": "AutoSmoketest1",
+        "image": "1368373-0-test-horde",
+        "changelist": "1368373",
+        "snapshot": "0",
+        "configuration": "test-horde"
+      },
+      "pods": [
+        {
+          "ip": "94.250.204.91",
+          "gamePort": 7779,
+          "partition": 1,
+          "dimension": 0,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.60",
+          "gamePort": 7778,
+          "partition": 14,
+          "dimension": 1,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.128",
+          "gamePort": 7777,
+          "partition": 15,
+          "dimension": 2,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.127",
+          "gamePort": 7779,
+          "partition": 2,
+          "dimension": 0,
+          "map": "SH_HarkoVillage"
+        },
+        {
+          "ip": "94.250.204.128",
+          "gamePort": 7778,
+          "partition": 3,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.60",
+          "gamePort": 7777,
+          "partition": 4,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.127",
+          "gamePort": 7778,
+          "partition": 5,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.128",
+          "gamePort": 7779,
+          "partition": 6,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.60",
+          "gamePort": 7779,
+          "partition": 7,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.127",
+          "gamePort": 7777,
+          "partition": 8,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.91",
+          "gamePort": 7778,
+          "partition": 9,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.91",
+          "gamePort": 7777,
+          "partition": 10,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.127",
+          "gamePort": 7780,
+          "partition": 11,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.91",
+          "gamePort": 7780,
+          "partition": 12,
+          "dimension": 0,
+          "map": "Overmap"
+        },
+        {
+          "ip": "94.250.204.128",
+          "gamePort": 7780,
+          "partition": 13,
+          "dimension": 0,
+          "map": "SH_Arrakeen"
+        }
+      ]
+    },
+    {
+      "phase": "active",
+      "region": "Europe Profiling",
+      "settings": {
+        "name": "AutoSmoketest3",
+        "image": "1368374-0-test-horde",
+        "changelist": "1368374",
+        "snapshot": "0",
+        "configuration": "test-horde"
+      },
+      "pods": [
+        {
+          "ip": "94.250.204.91",
+          "gamePort": 7781,
+          "partition": 1,
+          "dimension": 0,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.128",
+          "gamePort": 7784,
+          "partition": 2,
+          "dimension": 1,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.127",
+          "gamePort": 7783,
+          "partition": 3,
+          "dimension": 2,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.204.60",
+          "gamePort": 7783,
+          "partition": 21,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.91",
+          "gamePort": 7782,
+          "partition": 22,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.128",
+          "gamePort": 7783,
+          "partition": 23,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.127",
+          "gamePort": 7781,
+          "partition": 24,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.60",
+          "gamePort": 7782,
+          "partition": 25,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.128",
+          "gamePort": 7781,
+          "partition": 26,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.127",
+          "gamePort": 7782,
+          "partition": 27,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.60",
+          "gamePort": 7781,
+          "partition": 28,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.128",
+          "gamePort": 7782,
+          "partition": 29,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.204.60",
+          "gamePort": 7780,
+          "partition": 30,
+          "dimension": 0,
+          "map": "Overmap"
+        },
+        {
+          "ip": "94.250.204.91",
+          "gamePort": 7784,
+          "partition": 31,
+          "dimension": 0,
+          "map": "SH_Arrakeen"
+        },
+        {
+          "ip": "94.250.204.91",
+          "gamePort": 7783,
+          "partition": 32,
+          "dimension": 0,
+          "map": "SH_HarkoVillage"
+        }
+      ]
+    },
+    {
+      "phase": "active",
+      "region": "US East Retail",
+      "settings": {
+        "name": "bluejay",
+        "image": "1368041-0-development",
+        "changelist": "1368041",
+        "snapshot": "0",
+        "configuration": "development"
+      },
+      "pods": [
+        {
+          "ip": "94.250.200.70",
+          "gamePort": 7777,
+          "partition": 1,
+          "dimension": 0,
+          "map": "Survival_1"
+        }
+      ]
+    },
+    {
+      "phase": "active",
+      "region": "US East Retail",
+      "settings": {
+        "name": "nc-coders",
+        "image": "1368288-0-development",
+        "changelist": "1368288",
+        "snapshot": "0",
+        "configuration": "development"
+      },
+      "pods": [
+        {
+          "ip": "94.250.200.68",
+          "gamePort": 7778,
+          "partition": 1,
+          "dimension": 0,
+          "map": "Survival_1"
+        },
+        {
+          "ip": "94.250.200.66",
+          "gamePort": 7780,
+          "partition": 2,
+          "dimension": 0,
+          "map": "Overmap"
+        },
+        {
+          "ip": "94.250.200.66",
+          "gamePort": 7778,
+          "partition": 15,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.200.68",
+          "gamePort": 7777,
+          "partition": 16,
+          "dimension": 0,
+          "map": "DeepDesert_1"
+        },
+        {
+          "ip": "94.250.200.66",
+          "gamePort": 7779,
+          "partition": 17,
+          "dimension": 0,
+          "map": "SH_HarkoVillage"
+        },
+        {
+          "ip": "94.250.200.66",
+          "gamePort": 7777,
+          "partition": 18,
+          "dimension": 0,
+          "map": "SH_Arrakeen"
+        }
+      ]
+    }
+  ]
+}
